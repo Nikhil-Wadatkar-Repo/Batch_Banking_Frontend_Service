@@ -33,7 +33,7 @@ export default function Cards() {
           <div className="card h-100">
             <div className="card-body">
               <h5 className="card-title">Debit/Credit</h5>
-              <a href="/txn">Click here to do any tranaction</a>
+              <a href="/txn">Click here to do any tranaction.</a>
             </div>
           </div>
         </div>
